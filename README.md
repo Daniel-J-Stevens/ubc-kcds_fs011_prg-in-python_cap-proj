@@ -6,3 +6,5 @@ The course aims to equip students with programming skills required to conduct re
 <b>More information on the course can be found here:</b> [Programming in Python for Data Science](https://extendedlearning.ubc.ca/courses/programming-python-data-science/fs011)
 
 <b>Course content can be found here:</b> [Programming in Python for Data Science- Course Material](https://prog-learn.mds.ubc.ca/en/)
+
+This project is an exploratory data analysis combining various data sets related to Disney movies. The analysis aims to determine the most profitable movie genre, movie director and movie actor in order for other actors to make informed decisions regarding parts they are offered and contracts they negotiate.
